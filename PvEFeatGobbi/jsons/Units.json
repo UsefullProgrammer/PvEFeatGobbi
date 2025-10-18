@@ -1,6 +1,5 @@
 [
-
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
+	//Rome March
 	{
 		"name": "Jaguar",
 		"unitType": "Sword",
@@ -15,5 +14,22 @@
 		"promotions": ["[Jaguar] ability","Woodsman"],
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Cover I"],
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
