@@ -1,0 +1,19 @@
+[
+
+	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
+	{
+		"name": "Jaguar",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"range": 1,
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 8,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"promotions": ["[Jaguar] ability","Woodsman"],
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "nonmetalhit"
+	}
+]

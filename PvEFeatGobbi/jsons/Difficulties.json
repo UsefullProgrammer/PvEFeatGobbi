@@ -269,4 +269,34 @@
 		"turnBarbariansCanEnterPlayerTiles": 15,
 		"clearBarbarianCampReward": 25
 	}
+	{
+		"name": "Imperium",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+        "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 0.85,
+		"aiUnitCostModifier": 0.85,
+		"aiBuildingCostModifier": 0.85,
+		"aiWonderCostModifier": 0.9,
+		"aiBuildingMaintenanceModifier": 0.85,
+		"aiUnitMaintenanceModifier": 0.8,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": ["Pottery","Animal Husbandry"],
+		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Worker"],
+		"aiCityStateBonusStartingUnits": ["Worker"],
+		"aiUnhappinessModifier": 1.25,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 5,
+		"clearBarbarianCampReward": 50
+	}
 ]
