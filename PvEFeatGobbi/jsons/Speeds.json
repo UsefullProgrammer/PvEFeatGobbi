@@ -23,11 +23,11 @@
         
         "productionCostModifier": 0.8,
         "goldCostModifier": 1.0,
-        "scienceCostModifier": 1.25,
+        "scienceCostModifier": 1.5,
         "cultureCostModifier": 1.5,
         "faithCostModifier": 1.5,
         "improvementBuildLengthModifier": 1.0,
-        "barbarianModifier": 0.7,
+        "barbarianModifier": 0.8,
         "goldGiftModifier": 1.0,
         "cityStateTributeScalingInterval": 6.5,
         "goldenAgeLengthModifier": 1.0,
@@ -36,7 +36,7 @@
         "dealDuration": 30,
         "startYear": -4000,
         "turns": [
-            {"yearsPerTurn":  30, "untilTurn": 75},
+            {"yearsPerTurn":  40, "untilTurn": 80},
             {"yearsPerTurn":  20, "untilTurn": 135},
             {"yearsPerTurn":   10,     "untilTurn":  400},
             {"yearsPerTurn":    5,     "untilTurn":  570},

@@ -25,7 +25,7 @@
         "uniques": ["[+15]% [Culture] <while the empire is happy>"],
 		"policies": [
             {
-                "name": "Centri anti enza",
+                "name": "Cultural Centers",
                 "uniques": [
 			"[+50]% Production when constructing [Monument] buildings [in all cities]",
 			"[+50]% Production when constructing [Amphitheater] buildings [in all cities]",
@@ -47,7 +47,7 @@
                 "column": 5
             },
             {
-                "name": "Scambio di turni con Christian",
+                "name": "Cultural Exchange",
                 "uniques": [
 		    "[+33]% [Culture] [in all cities with a world wonder]",	
                     "When declaring friendship, both parties gain a [20]% boost to great person generation"
@@ -57,7 +57,7 @@
                 "column": 2
             },
             {
-                "name": "Bestemmie",
+                "name": "Tourism Destination",
                 "uniques": [
                     "[+2 Gold] from all [Culture] buildings"
                 ],
@@ -92,7 +92,7 @@
             "Neutral": 0,
             "Cultural": 0,
             "Diplomatic": 0,
-            "Domination": 15,
+            "Domination": 20,
             "Scientific": 10
         },
         "uniques": [
@@ -111,7 +111,8 @@
             {
                 "name": "Resettlement",
                 "uniques": [
-                    "[+1] population [in annexed cities]"
+                    "[+1] population [in annexed cities]", 
+                    
                 ],
                 "row": 1,
                 "column": 4
