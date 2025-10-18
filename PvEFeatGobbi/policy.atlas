@@ -200,13 +200,6 @@ PolicyIcons/Navigation School
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Ignore Zone of Control
-  rotate: false
-  xy: 1992, 912
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 PolicyIcons/Lightning Warfare
   rotate: false
   xy: 1992, 912
