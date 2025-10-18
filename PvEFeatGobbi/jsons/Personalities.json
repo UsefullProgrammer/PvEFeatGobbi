@@ -12,8 +12,8 @@
     "military": 6,
     "aggressive": 9,
     "declareWar": 10,
-    "commerce": 4,
-    "diplomacy": 2,
+    "commerce": 0,
+    "diplomacy": 0,
     "loyal": 1,
     "expansion": 9,
     "priorities": {
@@ -30,7 +30,7 @@
     },
     "civilopediaText": [
       {
-        "text": "The creator of the Pax Romana and the Roman Empire, who ended a long civil war and brought peace to the entire Mediterranean, possibly the greatest emperor of Rome."
+        "text": "Inventore della Pax Romana, fondatore dell’Impero Romano, pacificatore del Mediterraneo e probabilmente il GOAT degli imperatori… ma secondo Jarmen Enza, “quel tizio ha solo messo fine a una rissa di condominio su scala continentale e poi si è preso tutto il merito."
       }
     ]
   }
